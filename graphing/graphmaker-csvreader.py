@@ -20,9 +20,11 @@ def parsecsvdata():
      "r") as downtime:
         # parse csv data with csv.reader
         downdata = csv.reader(downtime, delimiter=",")
+        print(downdata)
         for row in downdata:
-            rowdat = (int(row[0]), int(row[1]), int(row[2]), int(row[3])) # Create tuple
-            summary.append(rowdat) # add tuple to list
+            print(row)
+            rowdat = (int(row[0]), int(row[1]), int(row[2]), int(row[3])) # Create list
+            summary.append(rowdat) # add dict to list
             # [(20,35,30,35), (25,32,34,20)]
     return summary
 
