@@ -1,0 +1,17 @@
+                                               Title  ...  IMDB Score
+0  Intolerance: Love's Struggle Throughout the Ages   ...         8.0
+1                    Over the Hill to the Poorhouse   ...         4.8
+2                                    The Big Parade   ...         8.3
+3                                        Metropolis   ...         8.3
+4                                     Pandora's Box   ...         8.0
+
+[5 rows x 25 columns]
+                                                   Year  ... IMDB Score
+Title                                                    ...           
+Intolerance: Love's Struggle Throughout the Ages   1916  ...        8.0
+Over the Hill to the Poorhouse                     1920  ...        4.8
+The Big Parade                                     1925  ...        8.3
+Metropolis                                         1927  ...        8.3
+Pandora's Box                                      1929  ...        8.0
+
+[5 rows x 24 columns]

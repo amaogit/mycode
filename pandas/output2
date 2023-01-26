@@ -1,0 +1,43 @@
+                                                   Year  ... IMDB Score
+Title                                                    ...           
+Intolerance: Love's Struggle Throughout the Ages   1916  ...        8.0
+Over the Hill to the Poorhouse                     1920  ...        4.8
+The Big Parade                                     1925  ...        8.3
+Metropolis                                         1927  ...        8.3
+Pandora's Box                                      1929  ...        8.0
+
+[5 rows x 24 columns]
+                        Year  ... IMDB Score
+Title                         ...           
+102 Dalmatians          2000  ...        4.8
+28 Days                 2000  ...        6.0
+3 Strikes               2000  ...        4.0
+Aberdeen                2000  ...        7.3
+All the Pretty Horses   2000  ...        5.8
+
+[5 rows x 24 columns]
+                                        Year  ... IMDB Score
+Title                                         ...           
+127 Hours                             2010.0  ...        7.6
+3 Backyards                           2010.0  ...        5.2
+3                                     2010.0  ...        6.8
+8: The Mormon Proposition             2010.0  ...        7.1
+A Turtle's Tale: Sammy's Adventures   2010.0  ...        6.1
+
+[5 rows x 24 columns]
+(5042, 24)
+(4997, 24)
+                                              Year  ... IMDB Score
+Title                                               ...           
+Avatar                                      2009.0  ...        7.9
+Titanic                                     1997.0  ...        7.7
+Jurassic World                              2015.0  ...        7.0
+The Avengers                                2012.0  ...        8.1
+The Dark Knight                             2008.0  ...        9.0
+Star Wars: Episode I - The Phantom Menace   1999.0  ...        6.5
+Star Wars: Episode IV - A New Hope          1977.0  ...        8.7
+Avengers: Age of Ultron                     2015.0  ...        7.5
+The Dark Knight Rises                       2012.0  ...        8.5
+Shrek 2                                     2004.0  ...        7.2
+
+[10 rows x 24 columns]
