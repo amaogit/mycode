@@ -6,8 +6,8 @@ import matplotlib.pyplot as plt
 
 def main():
     N = 4
-    localnetMeans = (20, 35, 30, 35) #LAN length of outage (mins)
-    wanMeans = (25, 32, 34, 20) #WAN length of outage (min)
+    localnetMeans = (20, 35, 30, 35) #LAN length of outage (mins), it's tuple
+    wanMeans = (25, 32, 34, 20) #WAN length of outage (min), it's tuple
     ind = np.arange(N)    # the x locations for the groups
     # the width of the bars: can also be len(x) sequence
     width = 0.35

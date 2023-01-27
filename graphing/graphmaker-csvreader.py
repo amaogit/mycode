@@ -53,8 +53,10 @@ def main():
 
     # SAVE the graph locally
     plt.savefig("/home/student/mycode/graphing/2018summaryv2.png")
+    plt.savefig("/home/student/mycode/graphing/2018summaryv2.pdf")
     # Save to "~/static"
     plt.savefig("/home/student/static/2018summaryv2.png")       
+    plt.savefig("/home/student/static/2018summaryv2.pdf")       
     print("Graph created.")
 
 if __name__ == "__main__":
